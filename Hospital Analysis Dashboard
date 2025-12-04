@@ -1,0 +1,56 @@
+# Hospital Analysis Dashboard – Power BI
+
+## 1. Project Overview
+
+This project is a comprehensive **Hospital Analysis Dashboard built using Power BI** that provides an integrated view of **patients, doctors, hospital operations, and financial performance**.  
+It is designed to support **hospital administrators, finance teams, and clinical managers** in making data-driven decisions.
+
+The dashboard consists of **five major analytical sections**:
+- Overview
+- Patient Analysis
+- Doctor Analysis
+- Hospital Operations
+- Finance Analysis
+
+---
+
+## 2. Tools & Technology Used
+
+- Power BI Desktop  
+- Excel / CSV Dataset  
+- Data Cleaning & DAX Measures  
+- Interactive KPIs, Slicers, and Visuals  
+
+---
+
+## 3. Dashboard Pages & Business Insights
+
+---
+
+### 3.1 Overview Dashboard
+
+This page provides a **high-level snapshot of the entire hospital performance**.
+
+**Key KPIs Displayed:**
+- Total Patients: 30  
+- Total Doctors: 15  
+- Staff Count: 20  
+- Total Amount: 854K  
+- Discharged Percentage: 73.3%  
+- Recently Admitted Patients  
+- Bed Status (Occupied vs Available)
+- Medicine Stock Status
+- Charges Breakdown:
+  - Surgery Charges
+  - Room Charges
+  - Test Charges
+  - Other Charges
+  - Doctor Fees
+  - Medicine Charges  
+
+**Business Value:**
+- Enables quick executive-level monitoring.
+- Identifies patient flow trends and revenue distribution.
+- Tracks medicine inventory and appointment schedules.
+
+📸 **Screenshot:**
