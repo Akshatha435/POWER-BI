@@ -79,9 +79,14 @@ Each module supports both **strategic leadership decisions and operational execu
 - Operational bottleneck identification  
 - Executive-level performance monitoring
 
+ 
+## 🟦 1. Frontpage
+<img src="frontpage.png" width="100%">
+
 
 ## 🟦 1. Overview Dashboard
-![Over_view](over_view.png)
+<img src="overview.png" width="100%">
+
 ---
 
 ## 2️⃣ Patient Analytics Dashboard
@@ -102,8 +107,9 @@ Each module supports both **strategic leadership decisions and operational execu
 - High-value patient identification  
 - Personalized treatment assessment  
 
-📷 Screenshot:  
-![Patient](patient.png)
+📷Patient Analytics Dashboard:  
+<img src="patient.png" width="100%">
+
 
 ---
 
@@ -125,8 +131,9 @@ Each module supports both **strategic leadership decisions and operational execu
 - Workload distribution optimization  
 - Clinical productivity management  
 
-📷 Screenshot:  
-![Doctor](doctor.png)
+📷Doctor Performance Dashboard:  
+<img src="doctor.png" width="100%">
+
 
 ---
 
@@ -147,8 +154,9 @@ Each module supports both **strategic leadership decisions and operational execu
 - Capacity planning & resource allocation  
 - Overcrowding risk prevention  
 
-📷 Screenshot:  
-![Hospital](hospital.png)
+📷Hospital Operations Dashboard 
+<img src="hospital.png" width="100%">
+
 
 ---
 
@@ -172,8 +180,8 @@ Each module supports both **strategic leadership decisions and operational execu
 - Expense control  
 - Budgeting & forecasting support  
 
-📷 Screenshot:  
-![Finance](finance.png)
+📷Financial Performance Dashboard: 
+<img src="finance.png" width="100%">
 
 ---
 
