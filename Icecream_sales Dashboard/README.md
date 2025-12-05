@@ -51,7 +51,7 @@ The main goal of this project is to help the business make **data-driven decisio
 ---
 
 ## 📷 Dashboard Preview  
-<img src="https://github.com/Akshatha435/Akshatha435/blob/main/dashboard_icecream.png?raw=true" width="100%" alt="Dashboard Preview">
+<img src= "icecream_Sales.png" width="100%">
 
 **Model Structure:**  
 - **Fact_Sales** → Transactional data (Date, Product ID, Outlet, Quantity, Revenue)  
